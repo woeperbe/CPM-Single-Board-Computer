@@ -1,10 +1,12 @@
 # CPM-Single-Board-Computer
 CP/M 2.2 Single Board Computer
 
-This project is a full working single board computer with the 8085 cpu that runs CP/M 2.2
-BIOS is compiled with ASMX 2.0 on my PC and written to EPROM or EEPROM with a BARLINO II programmer
+This project is a full working single board computer with the 8085 cpu that runs CP/M 2.2.
+
+BIOS is compiled with ASMX 2.0 on my PC and written to EPROM or EEPROM with a BARLINO II programmer.
+
 Bios contains code to format diskettes and to start creating disks with the CPM software by uploading the .HEX files one by one and save them
-with the standard save command.
+with the standard save command or with the H2C command
 RAM disk is provided hardware but no bios code until now !
 
 
