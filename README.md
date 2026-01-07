@@ -4,3 +4,14 @@ CP/M 2.2 Single Board Computer
 This project is a full working single board computer with the 8085 cpu that runs CP/M 2.2
 
 [SBC.pdf](https://github.com/user-attachments/files/24473908/SBC.pdf)
+
+
+<img width="1530" height="1018" alt="image" src="https://github.com/user-attachments/assets/4efdc19f-411e-4add-967a-00308fc8bd34" />
+
+<img width="1869" height="1239" alt="image" src="https://github.com/user-attachments/assets/3afcd5cc-ff8e-42d3-95e0-e1fa59d57527" />
+
+Runs with FLOPPY DISKS !
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/36ddd505-5087-4362-9a0c-f79c438cc633" />
+
+
